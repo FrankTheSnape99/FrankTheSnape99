@@ -24,6 +24,3 @@ I'm currently studying Software Engineering at the University of Central Lancash
 
 
 ---
-
-Projects
-
